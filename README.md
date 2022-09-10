@@ -5,6 +5,7 @@
 #### Introducción
 
 token github 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
+comando git push: git push https://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@github.com/gouldyas/Prep-Course-Henry.git
 
 ¡Hola! Bienvenido al Prep Course para la carrera de Desarrollo Web Full Stack
 
